@@ -1,0 +1,3 @@
+Case 2:
+
+Primeiramente uma forma de backup do modo original, pois caso ocorra algum sério problema consiga voltar ao que era antes e refazer o planejamento de mudança. Planejar todo o processo de implementação, fornecer o conhecimento das tecnologias a todos os envolvidos, realizar um ambiente de testes para se familiarizarem com o novo sistema. Manter um acompanhamento árduo durante os primeiros momentos, assim estando apto a resolver qualquer problema rapidamente.

@@ -1,0 +1,3 @@
+Case 4:
+
+Determinar os tipos de interações com o cliente que serão tratados, Definir o escopo dos recursos do chatbot, como responder a perguntas frequentes, fornecer informações sobre produtos e solucionar problemas. Integrar a ferramenta com os sistemas da dadosfera. Garantindo que o chatbot tenha informações precisas e atualizadas para fornecer aos clientes. Configurar para o atendimento ser o mais natural possível, para que as dúvidas do cliente possam ser esclarecidas da melhor maneira. Disponibilidade 24h e em vários canais diferentes. Definição de limites, fazendo assim acionar um agente humano quando necessário.
